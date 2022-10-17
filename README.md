@@ -1,6 +1,6 @@
 
 
-# <div align="center"> [CLIQUE AQUI PARA ACESSAR](https://maiarasantosdeveloper.netlify.app/)
+# <div align="center"> [Clique aqui para acessar](https://maiarasantosdeveloper.netlify.app/)
 </div>
 
 ***
