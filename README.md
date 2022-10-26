@@ -24,7 +24,7 @@ Nodejs 16;  Yarn ;STS;  VS Code ; IntelliCode ; ESLint ;JSX ;HTML &lt;tags/>
   "Limpar" o projeto ReactJS  https://github.com/acenelio/dsmeta-css   
 
 
-- Componentes; Datepicker:  Documentação: https://github.com/Hacker0x01/react-datepicker   
+- Componentes; Datepicker:  Documentação: https://github.com/Hacker0x01/react-datepicker.  
 
 
 - React Hook useState para manter estado das datas:    
