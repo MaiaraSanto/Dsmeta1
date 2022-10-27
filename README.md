@@ -13,7 +13,7 @@
 
 ## dsmeta1
 
-Decidir fazer este desafio, que é criar um app  ( com alguns ajustes rsrs) de uma Tabela com nome dos vendedores e suas respectivas vendas, 
+Decidir fazer este desafio, que é criar um app  ( com alguns ajustes rsrs) de uma Tabela, com nome dos vendedores e suas respectivas vendas, 
 em um intervalo de um ano, onde faz-se a integração do Back, Front e Banco de Dados.  Neste Projeto, foram usados os seguintes apetrechos:  
 
 - react nodejs frontend :  
